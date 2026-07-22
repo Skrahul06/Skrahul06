@@ -1,4 +1,4 @@
-# Hi there, I'm Sk Rahul 👋
+# Hi there, I'm Sheikh Rahul 👋
 
 ###  Full-Stack AI Engineer | Architecting Autonomous Agents & Scalable Backends
 
