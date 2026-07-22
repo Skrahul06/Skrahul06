@@ -7,9 +7,9 @@ I am a Data Science student and backend developer focused on bridging the gap be
 ---
 
 ###  Tech Stack & Tools
-*   **AI & Orchestration:** LangGraph, FastAPI, Pydantic, LLM APIs (OpenAI, Anthropic)
+*   **AI & Orchestration:** LangGraph, Langchain, Vanilla, FastAPI, Pydantic, LLM APIs 
 *   **Backend & Data:** Python, Node.js, PostgreSQL, pgvector
-*   **Frontend:** React, JavaScript, HTML/CSS
+*   **Frontend:** React, JavaScript(ES6+)
 
 ---
 
