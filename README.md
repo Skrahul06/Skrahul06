@@ -1,6 +1,6 @@
 # Hi there, I'm Sheikh Rahul 👋
 
-###  Full-Stack AI Engineer | Architecting Autonomous Agents & Scalable Backends
+###  Full-Stack AI Engineer 
 
 I am a Data Science student and backend developer focused on bridging the gap between raw language models and production-grade infrastructure. I build stateful multi-agent systems, optimize RAG pipelines, and design resilient APIs.
 
