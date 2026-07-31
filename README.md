@@ -1,6 +1,6 @@
 #  Hi, I'm Sheikh Rahul 
 
-### AI Engineer | Open Source Contributor | Data Science Student
+### AI Engineer | Open Source Contributor | 
 
 I bridge the gap between raw language models and production-grade infrastructure. I don't just write prompts—I build stateful multi-agent systems, optimize low-latency pipelines, and design resilient, hallucination-free APIs.
 
