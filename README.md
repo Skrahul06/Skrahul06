@@ -23,7 +23,7 @@ I bridge the gap between raw language models and production-grade infrastructure
 * Engineered the official enterprise guardrail kit for evaluating LLM responses against strict system criteria and JSON schemas. 
 * Configured flow definitions and prompt pipelines, successfully passing all CI/CD checks for integration into the Lamatic Studio runtime.
 
-####  [Friday - Real-Time AI Ecosystem](link-to-your-repo) | *Lead Architect*
+####  [Friday - Real-Time AI Ecosystem](https://github.com/Skrahul06/Friday) | *Lead Architect*
 * Engineered a multi-threaded voice agent utilizing **FastAPI WebSockets** and Deepgram for ultra-low latency real-time speech transcription.
 * Implemented an asynchronous LLMOps telemetry pipeline using **Langfuse**, running an "LLM-as-a-Judge" evaluation loop on a background thread to score tool accuracy.
 
