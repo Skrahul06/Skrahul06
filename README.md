@@ -34,14 +34,7 @@ I bridge the gap between raw language models and production-grade infrastructure
 
 ---
 
-###  GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skrahul06&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Rahul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skrahul06&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
 
 ###  Let's Connect
 *  **LinkedIn:** [sheikh-rahul-b912162b9](https://www.linkedin.com/in/sheikh-rahul-b912162b9/)
