@@ -1,36 +1,49 @@
-# Hi there, I'm Sheikh Rahul 👋
+#  Hi, I'm Sheikh Rahul 
 
-###  Full-Stack AI Engineer 
+### AI Engineer | Open Source Contributor | Data Science Student
 
-I am a Data Science student and backend developer focused on bridging the gap between raw language models and production-grade infrastructure. I build stateful multi-agent systems, optimize RAG pipelines, and design resilient APIs.
+I bridge the gap between raw language models and production-grade infrastructure. I don't just write prompts—I build stateful multi-agent systems, optimize low-latency pipelines, and design resilient, hallucination-free APIs.
 
----
-
-###  Tech Stack & Tools
-*   **AI & Orchestration:** LangGraph, Langchain, Vanilla, FastAPI, Pydantic, LLM APIs 
-*   **Backend & Data:** Python, Node.js, PostgreSQL, pgvector
-*   **Frontend:** React, JavaScript(ES6+)
+> ** Latest Win:** Core contributor to **Lamatic.ai**. Engineered and merged the official **LLM Guardrail Evaluator Kit** into their open-source runtime (PR #300).
 
 ---
 
-###  Featured Projects
+###  Tech Stack & Arsenal
 
-*   **[Friday](link-to-your-repo)** 
-    An autonomous multi-agent ecosystem utilizing LangGraph, FastAPI, and pgvector for stateful memory, tool-calling, and reasoning without hallucination loops.
-*    **[Voltx](link-to-your-repo)** 
-    A trustless crypto inheritance protocol focusing on secure asset routing and backend security.
-*    **[Botalsepaisa](link-to-your-repo)** 
-    A Fully end to end recycling app , focusing on the environmental change 
+* **AI Agents & Orchestration:** `smolagents`, `LangGraph`, `Pydantic`, `OpenAI / Anthropic APIs`
+* **LLMOps & Real-Time:** `Langfuse` (Tracing & Eval), `WebSockets`, `Deepgram STT`
+* **Backend & Databases:** `Python`, `FastAPI`, `PostgreSQL`, `ChromaDB`, `pgvector`, `Docker`
+* **Frontend:** `Next.js`, `React`, `JavaScript (ES6+)`
 
 ---
 
-### 📈 Currently Exploring
-*   Implementing **LLMOps** (Langfuse) for tracing and "LLM-as-a-judge" evaluation pipelines.
+###  Featured Engineering
 
+####  [Lamatic.ai LLM Guardrail Evaluator](https://github.com/Lamatic/AgentKit/pull/300) | *Open Source Contributor*
+* Engineered the official enterprise guardrail kit for evaluating LLM responses against strict system criteria and JSON schemas. 
+* Configured flow definitions and prompt pipelines, successfully passing all CI/CD checks for integration into the Lamatic Studio runtime.
+
+####  [Friday - Real-Time AI Ecosystem](link-to-your-repo) | *Lead Architect*
+* Engineered a multi-threaded voice agent utilizing **FastAPI WebSockets** and Deepgram for ultra-low latency real-time speech transcription.
+* Implemented an asynchronous LLMOps telemetry pipeline using **Langfuse**, running an "LLM-as-a-Judge" evaluation loop on a background thread to score tool accuracy.
+
+####  [Autonomous LinkedIn Content Agent](link-to-your-repo) | *Currently Building*
+* A multimodal agentic pipeline chaining text-LLMs and Image-Diffusion APIs to autonomously research, generate, and post content via the LinkedIn API, featuring a Human-in-the-Loop (HITL) approval state.
+
+*(Other works: **Voltx** - Trustless Crypto Inheritance Protocol | **BotalSePaisa** - Green-Tech Backend)*
 
 ---
 
-### 📫 Let's Connect
-*   **LinkedIn:** (https://www.linkedin.com/in/sheikh-rahul-b912162b9/)
-*   **X (Twitter):** [@SheikhRahul06](https://x.com/SheikhRahul06)
-*   **Email:** sheikhrahul8581@gmail.com
+###  GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Skrahul06&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Rahul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skrahul06&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+###  Let's Connect
+*  **LinkedIn:** [sheikh-rahul-b912162b9](https://www.linkedin.com/in/sheikh-rahul-b912162b9/)
+*  **X (Twitter):** [@SheikhRahul06](https://x.com/SheikhRahul06)
+*  **Email:** sheikhrahul8581@gmail.com
