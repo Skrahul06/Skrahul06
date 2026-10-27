@@ -27,7 +27,7 @@ I bridge the gap between raw language models and production-grade infrastructure
 * Engineered a multi-threaded voice agent utilizing **FastAPI WebSockets** and Deepgram for ultra-low latency real-time speech transcription.
 * Implemented an asynchronous LLMOps telemetry pipeline using **Langfuse**, running an "LLM-as-a-Judge" evaluation loop on a background thread to score tool accuracy.
 
-####  [Autonomous LinkedIn Content Agent](link-to-your-repo) | *Currently Building*
+####  [Autonomous LinkedIn Content Agent](link-to-your-repo) | *Lead Engineer*
 * A multimodal agentic pipeline chaining text-LLMs and Image-Diffusion APIs to autonomously research, generate, and post content via the LinkedIn API, featuring a Human-in-the-Loop (HITL) approval state.
 
 *(Other works: **Voltx** - Trustless Crypto Inheritance Protocol | **BotalSePaisa** - Green-Tech Backend)*
